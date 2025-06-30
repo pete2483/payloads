@@ -1,0 +1,1 @@
+osascript -e 'display dialog "Your system requires access to Documents to complete the update. Please click Allow." buttons {"Allow"} default button 1'
